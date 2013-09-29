@@ -1,0 +1,18 @@
+ros-hydro-husky-viz (0.0.2-0precise) precise; urgency=high
+
+  * Add interactive_markers pkg to dependencies.
+  * Add rviz files and launch files for view_robot (odom view + interactive marker control)
+  * Add roslaunch file check.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sun, 29 Sep 2013 04:00:00 -0000
+
+ros-hydro-husky-viz (0.0.1-0precise) precise; urgency=high
+
+  * Working view_model.launch.
+  * Catkinize package, add install targets.
+  * Split off separate husky_viz package.
+  * Move models directory up to root
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 11 Sep 2013 04:00:00 -0000
+
+
