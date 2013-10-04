@@ -1,3 +1,22 @@
+## husky_viz - 0.0.3-0
+
+User `administrator@husky-vm` released the packages in the `husky_viz` repository by running `/home/administrator/husky_ws/src/bloom_easy/scripts/release` on `Fri, 04 Oct 2013 04:20:16 -0000`
+
+The `husky_viz` package was released.
+
+Version of package(s) in repository `husky_viz`:
+- rosdistro version: `0.0.2-0`
+- old version: `0.0.2-0`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.14`
+- vcstools version: `0.1.31`
+
+
 ## husky_viz - 0.0.2-0
 
 User `mikepurvis@testbox` released the packages in the `husky_viz` repository by running `/home/mikepurvis/husky_sim_ws/src/bloom_easy/scripts/release` on `Sun, 29 Sep 2013 23:05:15 -0000`
