@@ -1,0 +1,12 @@
+Source: ros-hydro-husky-viz
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-roslaunch
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-husky-viz
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-husky-description (>= 0.0.2), ros-hydro-husky-interactive-markers, ros-hydro-joint-state-publisher, ros-hydro-rviz
+Description: Visualization and rviz helpers for Husky
