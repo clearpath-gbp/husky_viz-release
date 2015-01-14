@@ -2,6 +2,16 @@
 Changelog for package husky_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2015-01-14)
+------------------
+* Update visualizations for indigo release
+* update maintainer and dependencies
+* Remove husky_interactive_markers, switch to generic.
+* Add front_laser arg to view_model launcher.
+* Default fixed frame for the model viewer should be base_link.
+* viewing more options for navigation.rviz
+* Contributors: Mike Purvis, Paul Bovbel, Prasenjit Mukherjee
+
 0.0.3 (2013-10-04)
 ------------------
 * Set version requirement for description pkg.
