@@ -1,3 +1,24 @@
+## husky_viz (indigo) - 0.1.1-0
+
+The packages in the `husky_viz` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo husky_viz` on `Fri, 06 Feb 2015 15:41:22 -0000`
+
+The `husky_viz` package was released.
+
+Version of package(s) in repository `husky_viz`:
+- upstream repository: https://github.com/husky/husky_viz.git
+- release repository: https://github.com/clearpath-gbp/husky_viz-release.git
+- rosdistro version: `0.1.0-0`
+- old version: `0.1.0-0`
+- new version: `0.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.17`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.1`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## husky_viz (indigo) - 0.1.0-0
 
 The packages in the `husky_viz` repository were released into the `indigo` distro by running `/usr/bin/bloom-release husky_viz --rosdistro indigo --track indigo --new-track` on `Wed, 14 Jan 2015 16:30:22 -0000`
