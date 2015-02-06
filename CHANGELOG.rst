@@ -2,6 +2,13 @@
 Changelog for package husky_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2015-02-06)
+------------------
+* Update authors and web
+* Add IMU viz dependency; Update rviz presets
+* Restore interactive marker
+* Contributors: Paul Bovbel
+
 0.1.0 (2015-01-14)
 ------------------
 * Update visualizations for indigo release
